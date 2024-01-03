@@ -1,6 +1,6 @@
 # Lego Analysis
 
-** Questions Explored: **
+<b> Questions Explored: </b>
 
 - Largest LEGO Set Ever: Discover the colossal LEGO set that holds the record for being the most enormous creation. Uncover the details of its size and the astonishing number of parts it comprises.
 
